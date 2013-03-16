@@ -1,0 +1,5 @@
+twitter:
+  consumer_key: "CONSUMER KEY"
+  consumer_secret: "CONSUMER SECRET"
+  oauth_token: "OAUTH TOKEN OF A PARTICULAR USER"
+  oauth_token_secret: "OAUTH TOKE SECRET OF A PARTICULAR USER"
