@@ -3,7 +3,7 @@ require 'rubygems'
 require 'sinatra'
 require 'twitter'
 require 'json'
-
+require 'http'
 require "sinatra/config_file"
 
 config_file 'keys.yml'
